@@ -10,9 +10,6 @@
 ### Custom React Leaflet Map
 ![Map](https://cloud-93sdpwszm-hack-club-bot.vercel.app/0image.png)
 
-
 ### Team Gallery!
-https://cloud-5ep9gf32v-hack-club-bot.vercel.app/1image.png
-
-
+![Team Gallery](https://cloud-5ep9gf32v-hack-club-bot.vercel.app/1image.png)
 
