@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.neon-effect {
+  color: #fff;
+  text-shadow: 0 0 5px #00e6e6, 0 0 10px #00e6e6, 0 0 20px #ff00ff, 0 0 40px #ff00ff;
+}
+.container-neon {
+  transition: transform 0.35s ease-in-out;
+}
+.container-neon:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #ff00ff, 0 0 30px #00e6e6;
+}
