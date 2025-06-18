@@ -172,7 +172,7 @@ const Gallery = () => {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8 }}
           >
-            Ye<br />Aspiring<br />VP<br />
+            Ye<br />Gao<br />
           </motion.h1>
         </div>
       </div>
